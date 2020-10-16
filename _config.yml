@@ -113,6 +113,35 @@ team:
             icon: fab fa-researchgate
         research_interest: Real-time approaches to monitor or change brain signals
         newline: false
+      - name: "Megan Campbell"
+        initials: "MC"
+        role: "Postdoc"
+        image: assets/images/megan.jpg
+        social:
+          - url: https://twitter.com/MegaEJ_Campbell
+            icon: fab fa-twitter
+          - url: https://github.com/meganEJcampbell
+            icon: fab fa-github
+          - url: https://www.researchgate.net/profile/Megan_Campbell
+            icon: fab fa-researchgate
+          - url: https://scholar.google.com/citations?user=djvWO14AAAAJ&hl=en
+            icon: fab fa-google
+        research_interest: Emotional inference; perception & action; fMRI
+        newline: true
+  
+      - name: "Caroline Faucher"
+        initials: "CF"
+        role: "Research Assistant"
+        image: assets/images/Caro-pic.jpg
+        social:
+          - url: https://twitter.com/WriteCaroWrite
+            icon: fab fa-twitter
+          - url: https://www.linkedin.com/in/carolinefaucher/
+            icon: fab fa-linkedin-in
+          - url: https://www.researchgate.net/profile/Caroline_Faucher2
+            icon: fab fa-researchgate
+        research_interest: Developmental psychology & Neuroimaging
+        newline: false
       - name: "Renate Thienel"
         initials: "RT"
         role: "Research Manager"
@@ -130,21 +159,7 @@ team:
           icon: fab fa-researchgate
         research_interest: Schizophrenia, Cognitive Neuroscience
         newline: true
-      - name: "Megan Campbell"
-        initials: "MC"
-        role: "Postdoc"
-        image: assets/images/megan.jpg
-        social:
-          - url: https://twitter.com/MegaEJ_Campbell
-            icon: fab fa-twitter
-          - url: https://github.com/meganEJcampbell
-            icon: fab fa-github
-          - url: https://www.researchgate.net/profile/Megan_Campbell
-            icon: fab fa-researchgate
-          - url: https://scholar.google.com/citations?user=djvWO14AAAAJ&hl=en
-            icon: fab fa-google
-        research_interest: Emotional inference; perception & action; fMRI
-        newline: false
+
       - name: "Jayson Jeganathan"
         initials: "JJ"
         role: "PhD student"
@@ -192,3 +207,5 @@ team:
         image: assets/images/jennifer_palummo.jpg
         research_interest: Human brain
         newline: false
+
+
