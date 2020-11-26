@@ -1,7 +1,7 @@
 ---
 title: Renate Thienel
 auto-header: none
-icon: fa-campground
+icon: fa-sun
 order: 4
 ---
 
