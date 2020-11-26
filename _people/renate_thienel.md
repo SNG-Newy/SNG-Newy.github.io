@@ -1,7 +1,7 @@
 ---
 title: Renate Thienel
 auto-header: none
-icon: fa-user
+icon: fa-bone
 order: 4
 ---
 
