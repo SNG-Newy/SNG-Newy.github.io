@@ -1,7 +1,7 @@
 ---
 title: Johan van der Meer
 auto-header: none
-icon: fa-user
+icon: fa-leaf
 order: 3
 ---
 <head>
