@@ -1,7 +1,7 @@
 ---
 title: Michael Breakspear
 auto-header: none
-icon: fa-water
+icon: fa-anchor
 order: 2
 ---
 <head>
