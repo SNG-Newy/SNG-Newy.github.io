@@ -1,7 +1,7 @@
 ---
 title: Megan E. J. Campbell
 auto-header: none
-icon: fa-pizza-slice
+icon: fa-cookie
 order: 5
 ---
 
