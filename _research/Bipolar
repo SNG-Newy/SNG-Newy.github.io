@@ -1,0 +1,29 @@
+---
+title: Bipolar
+auto-header: none
+icon: fa-book
+order: 6
+---
+
+<h2> Functional and structural brain networks in persons at high risk of bipolar disorder. </h2>
+
+ <div class="row">
+  <div class="col">
+    <p> This ongoing collaboration with researchers at the University of NSW and University of Cambridge is now in the follow-up stage broadening 
+    into a longitudinal study of brain changes in a high-risk cohort. With the objective now being to better understand the progression of bipolar disorder (BD), 
+    given unaffected first-degree relatives of patients with BD have an odds ratio of ~7–14 of developing BD.</p>
+   <p> Following on from previously published work on the initial brain imaging dataset 
+   (<a href="http://dx.doi.org/10.1038/s41380-018-0267-2">Perry et al. (2019)</a>,
+   <a href="http://dx.doi.org/10.1017/S0033291717003233">Frankland et al. (2018)</a>,
+   <a href="http://dx.doi.org/10.1038/mp.2016.216">Roberts et al. (2018)</a>,
+   <a href="http://dx.doi.org/10.1016/j.nicl.2018.03.032">Jenagathan et al. (2018)</a>) 
+   and other broader research, structural and functional dysconnection amongst key brain networks supporting 
+   cognitive and affective processes have been highlighted in both persons with BD diagnosis and high-risk relatives. Work currently under review aimed 
+   to compare longitudinal structural connectivity changes in individuals at high genetic risk for BD to those without a family history of mental illness. 
+   Network-based statistics revealed that on-top of shared maturation changes in structural connectivity over time, high risk participants showed a subset 
+   of regions with weakened connectivity as compared to age-matched controls. This work to provides insight into and may present a candidate for predicting 
+   conversion to BD.
+   </p>
+   <img src="/assets/images/research/bipolar.png" alt="bipolar" style="width:80%; padding:5px; border-radius:20%; border: 1px solid #ddd;">
+  </div>
+</div> 
