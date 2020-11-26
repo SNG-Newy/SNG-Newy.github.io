@@ -1,7 +1,7 @@
 ---
 title: Jayson Jeganathan
 auto-header: none
-icon: fa-user
+icon: fa-lemon
 order: 7
 ---
 
