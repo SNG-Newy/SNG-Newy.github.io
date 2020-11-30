@@ -44,7 +44,7 @@ img.portrait {
 
 
 ## Biosketch
-I am a Mid-Career Researcher with a passion for improving health outcomes; I hold a PhD (Science), Postgraduate Diploma in Psychology, BSc (Hons);  
+I am a Mid-Career Researcher with a passion for improving health outcomes; I hold a PhD (Science), Postgraduate Diploma in Psychology, BSc (Hons); 
 \
 My research activities span across clinical, cognitive and neuroscientific aspects of health and mental health;
 \
