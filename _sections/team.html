@@ -35,9 +35,13 @@ img.portrait {
   <div class="row">
   {% for person in site.team.people %}
 	<div class="column">
+		{% if person.nameh != "" %}
 		<a href="https://SNG-Newy.github.io//people.html#{{ person.nameh }}">
 		<img class="portrait" src="{{ person.image }}" alt="">
 		</a>
+		{% else %}
+		<img class="portrait" src="{{ person.image }}" alt="">
+		{% endif %}
 		<h3>{{ person.name }}</h3>
 		<h5>{{ person.role }}</h5>
 		{% if person.initials == "MB"%}
