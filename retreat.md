@@ -1,6 +1,6 @@
 ---
 layout: retreat
 title: Retreat
-icon: fa-research
+icon: fa-pagesline
 order: 4
 ---
