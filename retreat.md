@@ -1,6 +1,6 @@
 ---
 layout: retreat
 title: Retreat
-icon: fa-pagesline
+icon: fa-pagelines
 order: 4
 ---
