@@ -71,7 +71,7 @@ team:
         nameh: "michael-breakspear"
         initials: "MB"
         role: "Group Leader"
-        image: assets/images/Breakspear Michael.jpg
+        image: assets/images/people/Breakspear Michael.jpg
         social:
           - url: https://github.com/Breakspear
             icon: fab fa-github
@@ -86,7 +86,7 @@ team:
         nameh: "léonie-borne"
         initials: "LB"
         role: "Postdoc"
-        image: assets/images/leonie_borne.jpg
+        image: assets/images/people/leonie_borne.jpg
         social:
           - url: https://twitter.com/LeonieBorne
             icon: fab fa-twitter
@@ -102,7 +102,7 @@ team:
         nameh: "johan-van-der-meer"
         initials: "JN"
         role: "Postdoc"
-        image: assets/images/Johan_van_der_Meer.jpg
+        image: assets/images/people/Johan_van_der_Meer.jpg
         social:
           - url: https://github.com/jnvandermeer
             icon: fab fa-github
@@ -120,7 +120,7 @@ team:
         nameh: "megan-e-j-campbell"
         initials: "MC"
         role: "Postdoc"
-        image: assets/images/megan.jpg
+        image: assets/images/people/megan.jpg
         social:
           - url: https://twitter.com/MegaEJ_Campbell
             icon: fab fa-twitter
@@ -137,7 +137,7 @@ team:
         nameh: "na"
         initials: "CF"
         role: "Research Assistant"
-        image: assets/images/Caro-pic.jpg
+        image: assets/images/people/Caro-pic.jpg
         social:
           - url: https://twitter.com/WriteCaroWrite
             icon: fab fa-twitter
@@ -151,7 +151,7 @@ team:
         nameh: "renate-thienel"
         initials: "RT"
         role: "Research Manager"
-        image: assets/images/Renate_Thienel.jpg
+        image: assets/images/people/Renate_Thienel.jpg
         social:
         - url: https://github.com/RThienel
           icon: fab fa-github
@@ -169,7 +169,7 @@ team:
         nameh: "jayson-jeganathan"
         initials: "JJ"
         role: "PhD student"
-        image: assets/images/Headshot1.jpg
+        image: assets/images/people/Headshot1.jpg
         social:
           - url: https://twitter.com/askdrjeg
             icon: fab fa-twitter
@@ -184,7 +184,7 @@ team:
         nameh: "nikitas-koussis"
         initials: "NK"
         role: "PhD Student"
-        image: assets/images/nik.jpg
+        image: assets/images/people/nik.jpg
         social:
           - url: https://twitter.com/KoussisNikitas
             icon: fab fa-twitter
@@ -201,21 +201,21 @@ team:
         nameh: "na"
         initials: "TL"
         role: "Honours Student"
-        image: assets/images/tyler.jpg
+        image: assets/images/people/tyler.jpg
         research_interest: Empathy and compassion fatigue
         newline: false
       - name: "Josie Rae"
         nameh: "na"
         initials: "JR"
         role: "Honours Student"
-        image: assets/images/josie_rae.jpg
+        image: assets/images/people/josie_rae.jpg
         research_interest: Research on the brain and behaviour
         newline: false
       - name: "Jennifer Palummo"
         nameh: "na"
         initials: "JP"
         role: "Honours Student"
-        image: assets/images/jennifer_palummo.jpg
+        image: assets/images/people/jennifer_palummo.jpg
         research_interest: Human brain
         newline: false
 
