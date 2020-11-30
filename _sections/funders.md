@@ -9,9 +9,9 @@ order: 5
 
 
 ## Philanthropic donors:
-[Brother's Reid](https://brothersreid.com/), co-funding research into mood disorders ([Roberts et al. (2016)](https://www.nature.com/articles/mp2016216);
+<span style="background-color:black;">[Brother's Reid](https://brothersreid.com/), co-funding research into mood disorders ([Roberts et al. (2016)](https://www.nature.com/articles/mp2016216);
 [Jeganathan et al. (2018)](https://www.sciencedirect.com/science/article/pii/S2213158218301025);
-[Perry et al. (2018)](https://www.nature.com/articles/s41380-018-0267-2))
+[Perry et al. (2018)](https://www.nature.com/articles/s41380-018-0267-2))</span>
 
 <span style="color:blue">Rainbow foundation, co-funding research into bipolar disease and early psychosis. </span>
 
