@@ -164,7 +164,7 @@ team:
         - url: https://www.researchgate.net/profile/Renate_Thienel
           icon: fab fa-researchgate
         research_interest: Schizophrenia, Cognitive Neuroscience
-        newline: false
+        newline: true
       - name: "Jayson Jeganathan"
         nameh: "jayson-jenagathan"
         initials: "JJ"
@@ -178,7 +178,7 @@ team:
           - url: https://github.com/jaysonjeg
             icon: fab fa-github
         research_interest: Brain connectivity, Emotional inference, Psychosis
-        newline: true
+        newline: false
     
       - name: "Nikitas Koussis"
         nameh: "nikitas-koussis"
