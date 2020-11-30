@@ -21,4 +21,4 @@ Rainbow foundation, co-funding research into bipolar disease and early psychosis
 
 [The Australian Dementia Network (ADNeT)](https://www.australiandementianetwork.org.au/), APP1152623
 
-Brain Connectomics in Psychiatry (Principal Research Fellowship), APP1118153, [(Perry et al. 2018)](https://www.nature.com/articles/s41380-018-0267-2)
+Brain Connectomics in Psychiatry (Principal Research Fellowship), APP1118153, [(Perry et al., 2018)](https://www.nature.com/articles/s41380-018-0267-2)
