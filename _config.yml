@@ -198,18 +198,21 @@ team:
         newline: true
 
       - name: "Tyler Luttrell"
+        nameh: "na"
         initials: "TL"
         role: "Honours Student"
         image: assets/images/tyler.jpg
         research_interest: Empathy and compassion fatigue
         newline: false
       - name: "Josie Rae"
+        nameh: "na"
         initials: "JR"
         role: "Honours Student"
         image: assets/images/josie_rae.jpg
         research_interest: Research on the brain and behaviour
         newline: false
       - name: "Jennifer Palummo"
+        nameh: "na"
         initials: "JP"
         role: "Honours Student"
         image: assets/images/jennifer_palummo.jpg
