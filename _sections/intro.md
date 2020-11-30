@@ -7,4 +7,4 @@ icon: fa-glasses
 order: 1
 ---
 
-## <span style="background-color:#669999;"> **Systems Neuroscience Group, Newcastle** </span>
+## <span style="background-color:#282828;"> **Systems Neuroscience Group, Newcastle** </span>
