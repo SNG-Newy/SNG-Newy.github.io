@@ -134,6 +134,7 @@ team:
         newline: true
   
       - name: "Caroline Faucher"
+        nameh: "na"
         initials: "CF"
         role: "Research Assistant"
         image: assets/images/Caro-pic.jpg
