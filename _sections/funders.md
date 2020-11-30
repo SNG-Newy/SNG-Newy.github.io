@@ -1,7 +1,7 @@
 ---
 title: Funders
 icon: fa-angle-right
-cover-photo: /assets/images/newcastle.jpg 
+cover-photo: /assets/images/homepage/newy-sea.jpg 
 cover-photo-alt: funders
 auto-header: none
 order: 5
