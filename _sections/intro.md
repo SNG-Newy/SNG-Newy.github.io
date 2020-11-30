@@ -1,6 +1,6 @@
 ---
 title: SNG
-cover-photo: assets/images/bogey-hole.jpg
+cover-photo: assets/images/hompage/bogey-hole.jpg
 cover-photo-alt: banner
 auto-header: none
 icon: fa-glasses
