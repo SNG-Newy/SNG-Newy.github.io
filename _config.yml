@@ -68,6 +68,7 @@ team:
     section: team
     people:
       - name: "Michael Breakspear"
+        nameh: "michael-breakspear"
         initials: "MB"
         role: "Group Leader"
         image: assets/images/Breakspear Michael.jpg
@@ -82,6 +83,7 @@ team:
         newline: true
 
       - name: "Léonie Borne"
+        nameh: "léonie-borne"
         initials: "LB"
         role: "Postdoc"
         image: assets/images/leonie_borne.jpg
@@ -97,6 +99,7 @@ team:
         research_interest: Machine Learning & Neuroimaging
         newline: false
       - name: "Johan van der Meer"
+        nameh: "johan-van-der-meer"
         initials: "JN"
         role: "Postdoc"
         image: assets/images/Johan_van_der_Meer.jpg
