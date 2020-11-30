@@ -8,4 +8,4 @@ order: 1
 ---
 
 
-## **Research Projects**
+## <span style="background-color:#282828;">**Research Projects**</span>
