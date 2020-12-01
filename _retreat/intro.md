@@ -1,9 +1,9 @@
 ---
-title: Blue Mountains 2020
-cover-photo: assets/images/retreat/2020/IMG_2059.jpeg
+title: Blue Mountains
+cover-photo: assets/images/retreat/2020/IMG_2043.jpeg
 cover-photo-alt: Blue Mountains
 auto-header: none
-icon: fa-leaf
+icon: fa-xx
 order: 1
 ---
 
