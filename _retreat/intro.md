@@ -1,5 +1,5 @@
 ---
-title: Blue Mountains
+title: Blue Mountains 2020
 cover-photo: assets/images/retreat/2020/IMG_2059.jpeg
 cover-photo-alt: Blue Mountains
 auto-header: none
@@ -8,4 +8,4 @@ order: 1
 ---
 
 
-## <span style="background-color:#282828;">**2020**</span>
+## Blue Mountains 2020
