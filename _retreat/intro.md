@@ -1,11 +1,11 @@
 ---
-title: Projects
-cover-photo: assets/images/research/books.jpg
-cover-photo-alt: Newcastle
+title: Blue Mountains
+cover-photo: assets/images/retreat/2020/IMG_2059.jpeg
+cover-photo-alt: Blue Mountains
 auto-header: none
-icon: fa-book
+icon: fa-leaf
 order: 1
 ---
 
 
-## <span style="background-color:#282828;">**Research Projects**</span>
+## <span style="background-color:#282828;">**2020**</span>
