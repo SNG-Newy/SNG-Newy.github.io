@@ -14,7 +14,7 @@ order: 5
 [Jeganathan et al. (2018)](https://www.sciencedirect.com/science/article/pii/S2213158218301025);
 [Perry et al. (2018)](https://www.nature.com/articles/s41380-018-0267-2)) </span>
 \
-<span style="background-color:#669999;">Rainbow foundation, co-funding research into bipolar disease and early psychosis. </span>
+<span style="background-color:#669999;text-align: right;">Rainbow foundation, co-funding research into bipolar disease and early psychosis. </span>
 
 ## <span style="background-color:#669999;">Governmental funders, </span>
 ## <span style="background-color:#669999;">National Health & Medical Research Council (NH&MRC):</span>
