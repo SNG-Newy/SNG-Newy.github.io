@@ -1,7 +1,7 @@
 ---
 title: Funders
 icon: fa-angle-right
-cover-photo: /assets/images/homepage/newy-sea.jpg 
+cover-photo: /assets/images/homepage/newy-vinyard.jpg 
 cover-photo-alt: funders
 auto-header: none
 order: 5
@@ -25,4 +25,3 @@ order: 5
 \
 <span style="background-color:#669999;">Brain Connectomics in Psychiatry (Principal Research Fellowship), APP1118153, [(Perry et al., 2018)](https://www.nature.com/articles/s41380-018-0267-2)</span>
 
-<span align="right">Photo by <a href="https://unsplash.com/@vikachartier?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Vika Chartier</a> on <a href="https://unsplash.com/s/photos/newcastle-australia?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
