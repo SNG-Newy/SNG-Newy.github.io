@@ -1,7 +1,7 @@
 ---
 title: Where are we?
 icon: fa-map-signs
-cover-photo: /assets/images/homepage/newy-beach.jpeg 
+cover-photo: /assets/images/homepage/newy-nobbys.jpg 
 cover-photo-alt: hmri
 auto-header: none
 order: 3

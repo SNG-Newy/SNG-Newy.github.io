@@ -1,6 +1,6 @@
 ---
 title: SNG
-cover-photo: assets/images/homepage/newy-nobbys.jpg
+cover-photo: assets/images/homepage/newy-beach.jpeg
 cover-photo-alt: banner
 auto-header: none
 icon: fa-glasses
