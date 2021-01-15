@@ -150,7 +150,7 @@ team:
       - name: "Renate Thienel"
         nameh: "renate-thienel"
         initials: "RT"
-        role: "Research Associate & Research Manager"
+        role: "Research Associate \n & Research Manager"
         image: assets/images/people/Renate_Thienel.jpg
         social:
         - url: https://github.com/RThienel
