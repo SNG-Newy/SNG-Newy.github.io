@@ -196,6 +196,17 @@ team:
             icon: fab fa-google
         research_interest: Active inference in cognitive deficits in psychosis
         newline: true
+        
+        - name: "Bryan Paton"
+        nameh: "bryan-paton"
+        initials: "BP"
+        role: "Data Scientist & Technical Support (Wizard)"
+        image: assets/images/people/Bryan Paton.jpg
+        social:
+          - url: https://scholar.google.com.au/citations?user=6YjEz1IAAAAJ&hl=en
+            icon: fab fa-google
+        research_interest: Consciousness, Attention, Learning under uncertainty and computational models of this
+        newline: true
 
       - name: "Tyler Luttrell"
         nameh: "na"
