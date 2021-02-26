@@ -179,7 +179,7 @@ team:
             icon: fab fa-github
         research_interest: Brain connectivity, Emotional inference, Psychosis
         newline: false
-    
+
       - name: "Nikitas Koussis"
         nameh: "nikitas-koussis"
         initials: "NK"
@@ -195,9 +195,8 @@ team:
           - url: https://scholar.google.com.au/citations?user=IYvoykoAAAAJ&hl=en
             icon: fab fa-google
         research_interest: Active inference in cognitive deficits in psychosis
-        newline: true
-        
-        - name: "Bryan Paton"
+        newline: false
+      - name: "Bryan Paton"
         nameh: "bryan-paton"
         initials: "BP"
         role: "Data Scientist & Technical Support (Wizard)"
