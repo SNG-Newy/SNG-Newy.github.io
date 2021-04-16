@@ -42,17 +42,15 @@ img.portrait {
   </div>
 </section>
 
-## Research Interests
-I am passionate about the use of artificial intelligence in medical imaging. 
-My work aims to develop intelligent algorithms to help the analysis of these images, notably using deep learning. 
+Having always been passionate about artificial intelligence and medical imaging, my research work has naturally focused on the development of "intelligent" tools for the study of an "intelligent" organ: the brain.
 
-## Deep learning for cortical fold study
-After a master's degree in artificial intelligence, I did my PhD at Neurospin in France. 
-My PhD work focused on the development of several **structural MRI analysis** pipelines using **machine learning** algorithms, including **deep learning**. 
-The tools I developed are now available in the BrainVISA toolbox ([www.brainvisa.info](www.brainvisa.info)), to help researchers study the link between the fold shape and brain function. 
+## Deep learning for the study of cortical folds
+After a master's degree in artificial intelligence, I did my PhD with Prof. Jean-François Mangin at Neurospin in France.
+My PhD work focused on the development of several **structural MRI analysis** pipelines for the study of cortical folds using **machine learning** algorithms, including **deep learning**. 
+The tools I developed are now available in the BrainVISA toolbox ([www.brainvisa.info](www.brainvisa.info)). 
 
 ## Brain-behaviour association in dementia
-Following my PhD, I started a postdoc in 2020 in the Systems Neuroscience Group where I applied my skills to address the challenges of dementia. 
+Following my PhD, I started a postdoc in 2020 with Prof. Michael Breakspear in Australia, where I applied my skills to address the challenges of dementia. 
 Using **advanced statistical analysis**, I have notably identified a robust association between brain atrophy and cognitive decline during the **preclinical stage of Alzheimer's disease**. 
 My work is based on the databases [ADNI](http://adni.loni.usc.edu/), [AIBL](https://aibl.csiro.au/) and [PISA](https://www.qimrberghofer.edu.au/pisa/).
 
