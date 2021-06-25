@@ -1,7 +1,7 @@
 ---
 title: Bryan Paton
 auto-header: none
-icon: fa-hat-wizard
+icon: fa-magic
 order: 8
 ---
 
